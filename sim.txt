@@ -1,0 +1,11 @@
+ Volume in drive C is OS
+ Volume Serial Number is 163C-0DD7
+
+ Directory of C:\Users\simas\OneDrive\Desktop\my project
+
+04/02/2019  11:39 AM    <DIR>          .
+04/02/2019  11:39 AM    <DIR>          ..
+04/02/2019  11:38 AM               354 exist
+04/02/2019  11:39 AM                 0 sim.txt
+               2 File(s)            354 bytes
+               2 Dir(s)  43,742,048,256 bytes free
